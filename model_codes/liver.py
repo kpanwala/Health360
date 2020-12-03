@@ -30,4 +30,4 @@ print("---------------------")
 print(clf_report)
 print("_____________________")
 
-joblib.dump(model,r"C:\Users\Mahesh Sharma\Desktop\HealthApp\Indivisual_Deployment\Liver_API\liver_model.pkl")
+joblib.dump(model,r".\liver_model.pkl")

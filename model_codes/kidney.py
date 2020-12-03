@@ -39,4 +39,4 @@ print("---------------------")
 print(clf_report)
 print("_____________________")
 
-joblib.dump(model,r"C:\Users\Mahesh Sharma\Desktop\HealthApp\Indivisual_Deployment\Kidney_API\kidney_model.pkl")
+joblib.dump(model,r".\kidney_model.pkl")
